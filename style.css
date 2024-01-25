@@ -31,13 +31,11 @@ body{
        
 }
 #paiinfo{
-    background-color: blue;
     width: 100 vw;
     display: flex;
     justify-content: center;
 }
 #info{
-    background-color: brown;
     color: white;
     font-size: small;
     width: 30vw;
