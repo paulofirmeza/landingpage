@@ -3,3 +3,44 @@ body{
     background-repeat: no-repeat;
 
 }
+
+#logo{
+    display: flex;
+    justify-content: center;
+}
+#cabecalho{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+}
+#shopping{
+    display: flex;
+    justify-content: center;
+}
+#email{
+    display: flex;
+    justify-content: center;
+    
+}
+#button{
+    background-color: black;
+    color: white;
+       
+}
+#paiinfo{
+    background-color: blue;
+    width: 100 vw;
+    display: flex;
+    justify-content: center;
+}
+#info{
+    background-color: brown;
+    color: white;
+    font-size: small;
+    width: 30vw;
+    
+
+}
